@@ -11,4 +11,16 @@
 
 ### Time Meeting Proposals:
  - **Martin** : Perhaps Thursdays After class and Fridays After class
+Potential Problem Formulas:
+ Highest number of wins add 
+ Undefeated status: We might scale this status by some factor  
+ Quality opposition beaten: add(all-opposition-wins)
+ Weight Division Conquered: Can find this manually
+ Belts earned
+ Title Defenses
+ Percentage-wins: (wins/total-bouts)* 100 - information obtainable: boxrec
+ How many World champions Opponents Faced
 
+
+
+Seemingly impossible:
