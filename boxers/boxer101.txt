@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Roberto Davila
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27
+29
+1
+
+
+20 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000101
+
+
+role
+boxer
+
+
+
+bouts
+58
+
+
+
+rounds
+440
+
+
+
+KOs
+34%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Roberto Davila Salinas
+
+
+
+alias
+El Grandazo de Surquillo
+
+
+
+born
+ 1940-07-15
+
+
+
+nationality
+  Peru
+
+
+
+death date
+2000-00-00 / age 59
+
+
+
+debut
+1961-08-30
+
+
+
+division
+  heavyweight
+
+
+
+height
+6′ 4″   /   193cm
+
+
+
+residence
+Lima, Peru
+
+
+birth place
+ Surquillo, Peru
+
+
+
+
+
+

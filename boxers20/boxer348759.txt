@@ -1,0 +1,211 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Saul Alvarez
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+1
+2
+
+
+35 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #348759
+
+
+role
+boxer
+
+
+
+rating
+
+
+
+
+
+ 
+
+        1 / 1,515
+        
+
+
+        1 / 131
+        
+
+
+
+
+VADA CBP
+  enrolled
+
+
+
+bouts
+54
+
+
+
+rounds
+379
+
+
+
+KOs
+65%
+
+
+
+
+
+
+
+
+status
+active
+
+
+
+titles held
+
+World Boxing Association Super World Middleweight Title
+
+
+
+birth name
+Santos Saúl Álvarez Barragán
+
+
+
+alias
+Canelo
+
+
+
+born
+ 1990-07-18
+
+    / age 28
+  
+
+
+nationality
+  Mexico
+
+
+
+debut
+2005-10-29
+
+
+
+division
+  middleweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 8″   /   173cm
+
+
+
+reach
+
+
+
+
+70½″   /   179cm
+
+
+
+residence
+Guadalajara, Jalisco, Mexico
+
+
+birth place
+ Guadalajara, Jalisco, Mexico
+
+
+
+
+ register as manager
+
+
+
+
+ register as promoter
+
+
+
+
+
+

@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Archie Moore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+186
+23
+10
+
+
+132 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #008995
+
+
+role
+boxer
+
+
+
+bouts
+220
+
+
+
+rounds
+1472
+
+
+
+KOs
+60%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Archibald Lee Wright
+
+
+
+alias
+Old Mongoose
+
+
+
+born
+ 1916-12-13
+
+
+
+nationality
+  USA
+
+
+
+death date
+1998-12-09 / age 81
+
+
+
+debut
+1935-09-03
+
+
+
+division
+  light heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 11″   /   180cm
+
+
+
+reach
+
+
+
+
+75″   /   191cm
+
+
+
+residence
+San Diego, California, USA
+
+
+birth place
+ Benoit, Mississippi, USA
+
+
+
+
+
+

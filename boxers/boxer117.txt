@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Clemente Mucino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+26
+1
+
+
+6 KOs
+14 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000117
+
+
+role
+boxer
+
+
+
+bouts
+37
+
+
+
+rounds
+264
+
+
+
+KOs
+16%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Clemente Mucino Martinez
+
+
+
+alias
+Didi
+
+
+
+born
+ 1945-11-23
+
+
+
+nationality
+  Mexico
+
+
+
+debut
+1966-12-07
+
+
+
+division
+  lightweight
+
+
+
+height
+5′ 7″   /   170cm
+
+
+
+residence
+Mexico City, Distrito Federal, Mexico
+
+
+birth place
+ Mexico City, Distrito Federal, Mexico
+
+
+
+
+
+

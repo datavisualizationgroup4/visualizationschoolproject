@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Art Savage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+7
+0
+
+
+0 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000153
+
+
+role
+boxer
+
+
+
+bouts
+7
+
+
+
+rounds
+37
+
+
+
+KOs
+0%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Arthur Lee Savage
+
+
+
+born
+ 1951-01-23
+
+
+
+nationality
+  USA
+
+
+
+death date
+1998-10-28 / age 47
+
+
+
+debut
+1973-05-02
+
+
+
+division
+  heavyweight
+
+
+
+residence
+Philadelphia, Pennsylvania, USA
+
+
+birth place
+ Halifax, North Carolina, USA
+
+
+
+
+
+

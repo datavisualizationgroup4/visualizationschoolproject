@@ -1,0 +1,145 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Mel Turnbow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+13
+0
+
+
+2 KOs
+10 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000123
+
+
+role
+boxer
+
+
+
+bouts
+22
+
+
+
+rounds
+101
+
+
+
+KOs
+9%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1943-07-11
+
+
+
+nationality
+  USA
+
+
+
+death date
+2013-02-12 / age 69
+
+
+
+debut
+1964-11-05
+
+
+
+division
+  heavyweight
+
+
+
+height
+6′ 3″   /   191cm
+
+
+
+residence
+Paterson, New Jersey, USA
+
+
+
+
+

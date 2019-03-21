@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Julio Cesar Chavez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+107
+6
+2
+
+
+85 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #008119
+
+
+role
+boxer
+
+
+
+bouts
+115
+
+
+
+rounds
+634
+
+
+
+KOs
+74%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Julio Cesar Chavez Gonzalez
+
+
+
+alias
+J.C.
+
+
+
+born
+ 1962-07-12
+
+
+
+nationality
+  Mexico
+
+
+
+debut
+1980-02-05
+
+
+
+division
+  super lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 7½″   /   171cm
+
+
+
+reach
+
+
+
+
+66½″   /   169cm
+
+
+
+residence
+Culiacan, Sinaloa, Mexico
+
+
+birth place
+ Ciudad Obregon, Sonora, Mexico
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Donnie Maes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30
+28
+10
+
+
+10 KOs
+13 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000013
+
+
+role
+boxer
+
+
+
+bouts
+69
+
+
+
+rounds
+434
+
+
+
+KOs
+14%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Donald Maes Falcon
+
+
+
+born
+ 1915-11-13
+
+
+
+nationality
+  USA
+
+
+
+death date
+1983-03-30 / age 67
+
+
+
+debut
+1936-08-14
+
+
+
+division
+  featherweight
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+residence
+San Jose, California, USA
+
+
+birth place
+ Denver, Colorado, USA
+
+
+
+
+
+

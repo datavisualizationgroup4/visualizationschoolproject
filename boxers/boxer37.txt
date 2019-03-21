@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Nat Corum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+31
+12
+
+
+5 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000037
+
+
+role
+boxer
+
+
+
+bouts
+56
+
+
+
+rounds
+350
+
+
+
+KOs
+9%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Nathaniel Corum
+
+
+
+born
+ 1917-11-22
+
+
+
+nationality
+  USA
+
+
+
+death date
+1974-06-01 / age 56
+
+
+
+debut
+1939-07-11
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 3″   /   160cm
+
+
+
+residence
+Oakland, California, USA
+
+
+birth place
+ Los Angeles, California, USA
+
+
+
+
+
+

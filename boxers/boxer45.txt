@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Luis Castillo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+97
+73
+12
+
+
+40 KOs
+12 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000045
+
+
+role
+boxer
+
+
+
+bouts
+183
+
+
+
+rounds
+1639
+
+
+
+KOs
+22%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Pocket Battleship
+
+
+
+born
+ 1923-05-01
+
+
+
+nationality
+  Mexico
+
+
+
+death date
+1971-01-31 / age 47
+
+
+
+debut
+1939-06-24
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+height
+4′ 11″   /   150cm
+
+
+
+reach
+
+
+
+
+61″   /   155cm
+
+
+
+residence
+Mexico City, Distrito Federal, Mexico
+
+
+
+
+

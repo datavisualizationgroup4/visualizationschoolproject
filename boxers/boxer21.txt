@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Elwood Romero
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+32
+17
+
+
+19 KOs
+9 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000021
+
+
+role
+boxer
+
+
+
+bouts
+78
+
+
+
+rounds
+465
+
+
+
+KOs
+24%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Elwood G. Romero
+
+
+
+born
+ 1920-04-03
+
+
+
+nationality
+  USA
+
+
+
+death date
+1990-11-23 / age 70
+
+
+
+debut
+1938-01-07
+
+
+
+division
+  bantamweight
+
+
+
+residence
+Sacramento, California, USA
+
+
+birth place
+ Sacramento, California, USA
+
+
+
+
+
+

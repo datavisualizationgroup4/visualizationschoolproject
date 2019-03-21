@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Richie Lemos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55
+23
+3
+
+
+26 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000009
+
+
+role
+boxer
+
+
+
+bouts
+81
+
+
+
+rounds
+554
+
+
+
+KOs
+32%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1920-06-02
+
+
+
+nationality
+  USA
+
+
+
+death date
+2004-10-18 / age 84
+
+
+
+debut
+1937-07-02
+
+
+
+division
+  lightweight
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+residence
+Los Angeles, California, USA
+
+
+birth place
+ Los Angeles, California, USA
+
+
+
+
+
+

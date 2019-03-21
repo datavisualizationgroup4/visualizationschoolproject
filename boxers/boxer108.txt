@@ -1,0 +1,145 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Charley Polite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+38
+3
+
+
+6 KOs
+17 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000108
+
+
+role
+boxer
+
+
+
+bouts
+59
+
+
+
+rounds
+387
+
+
+
+KOs
+10%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1944-10-05
+
+
+
+nationality
+  USA
+
+
+
+debut
+1964-08-19
+
+
+
+division
+  heavyweight
+
+
+
+height
+6′ 3″   /   191cm
+
+
+
+residence
+Springfield, Massachusetts, USA
+
+
+birth place
+ Garnett, South Carolina, USA
+
+
+
+
+
+

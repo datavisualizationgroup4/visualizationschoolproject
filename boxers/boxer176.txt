@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Gerrie Coetzee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+6
+1
+
+
+21 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000176
+
+
+role
+boxer
+
+
+
+bouts
+40
+
+
+
+rounds
+254
+
+
+
+KOs
+53%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Gerhardus Christian Coetzee
+
+
+
+alias
+The Boksburg Bomber
+
+
+
+born
+ 1955-04-08
+
+
+
+nationality
+  South Africa
+
+
+
+debut
+1974-09-14
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 3½″   /   192cm
+
+
+
+reach
+
+
+
+
+81″   /   206cm
+
+
+
+residence
+Boksburg, Gauteng, South Africa
+
+
+birth place
+ Boksburg, Gauteng, South Africa
+
+
+
+
+
+

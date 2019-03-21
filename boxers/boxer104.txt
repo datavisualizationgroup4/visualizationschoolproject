@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Luis Patino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+13
+3
+
+
+9 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000104
+
+
+role
+boxer
+
+
+
+bouts
+39
+
+
+
+rounds
+287
+
+
+
+KOs
+23%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1941-05-07
+
+
+
+nationality
+  Panama
+
+
+
+death date
+2017-06-27 / age 76
+
+
+
+debut
+1961-10-20
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+residence
+Panama City, Panama
+
+
+birth place
+ Panama
+
+
+
+
+
+

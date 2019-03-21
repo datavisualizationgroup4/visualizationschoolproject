@@ -1,0 +1,206 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Anthony Joshua
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+0
+0
+
+
+21 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #659461
+
+
+role
+boxer
+
+
+
+rating
+
+
+
+
+
+ 
+
+        1 / 1,306
+        
+
+
+        1 / 44
+        
+
+
+
+
+bouts
+22
+
+
+
+rounds
+84
+
+
+
+KOs
+95%
+
+
+
+
+
+
+
+
+status
+active
+
+
+
+titles held
+
+International Boxing Organization  World Heavyweight TitleWorld Boxing Association Super World Heavyweight TitleInternational Boxing Federation World Heavyweight TitleWorld Boxing Organisation World Heavyweight Title
+
+
+
+birth name
+Anthony Oluwafemi Olaseni Joshua
+
+
+
+alias
+'AJ'
+
+
+
+born
+ 1989-10-15
+
+    / age 29
+  
+
+
+nationality
+  United Kingdom
+
+
+
+debut
+2013-10-05
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 6″   /   198cm
+
+
+
+reach
+
+
+
+
+82″   /   208cm
+
+
+
+residence
+Watford, Hertfordshire, United Kingdom
+
+
+birth place
+ Watford, Hertfordshire, United Kingdom
+
+
+
+
+ register as manager
+
+
+
+
+ register as promoter
+
+
+
+
+
+

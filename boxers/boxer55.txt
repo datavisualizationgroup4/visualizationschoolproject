@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Joey Dolan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46
+13
+3
+
+
+15 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000055
+
+
+role
+boxer
+
+
+
+bouts
+62
+
+
+
+rounds
+473
+
+
+
+KOs
+24%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Joseph A. Dolan
+
+
+
+alias
+Irish/Dead End Kid
+
+
+
+born
+ 1921-04-10
+
+
+
+nationality
+  USA
+
+
+
+death date
+1994-08-09 / age 73
+
+
+
+debut
+1943-03-12
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 8½″   /   174cm
+
+
+
+reach
+
+
+
+
+69″   /   175cm
+
+
+
+residence
+Spokane, Washington, USA
+
+
+birth place
+ Northgate, North Dakota, USA
+
+
+
+
+
+

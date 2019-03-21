@@ -1,0 +1,181 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Roy Jones Jr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+9
+0
+
+
+47 KOs
+5 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #774820
+
+
+role
+boxer promoter
+
+
+
+bouts
+75
+
+
+
+rounds
+495
+
+
+
+KOs
+63%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Roy Levesta Jones
+
+
+
+alias
+Junior
+
+
+
+born
+ 1969-01-16
+
+
+
+nationality
+  USA
+
+
+
+debut
+1989-05-06
+
+
+
+division
+  light heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 11″   /   180cm
+
+
+
+reach
+
+
+
+
+74″   /   188cm
+
+
+
+residence
+Pensacola, Florida, USA
+
+
+birth place
+ Pensacola, Florida, USA
+
+
+
+
+
+register as manager
+
+
+
+
+
+register as promoter
+
+
+
+
+
+

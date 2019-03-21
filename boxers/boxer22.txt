@@ -1,0 +1,165 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Little Dado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70
+6
+11
+
+
+22 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000022
+
+
+role
+boxer
+
+
+
+bouts
+87
+
+
+
+rounds
+691
+
+
+
+KOs
+25%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Eleuterio Zapanta
+
+
+
+born
+ 1916-01-01
+
+
+
+nationality
+  Philippines
+
+
+
+death date
+1965-07-07 / age 49
+
+
+
+debut
+1932-08-24
+
+
+
+division
+  flyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 2″   /   157cm
+
+
+
+reach
+
+
+
+
+59″   /   150cm
+
+
+
+birth place
+ La Carlota City, Negros Occidental, Philippines
+
+
+
+
+
+

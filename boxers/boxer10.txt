@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+David Kui Kong Young
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70
+17
+12
+
+
+41 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000010
+
+
+role
+boxer
+
+
+
+bouts
+99
+
+
+
+rounds
+733
+
+
+
+KOs
+41%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Clouting Celestial
+
+
+
+born
+ 1916-12-05
+
+
+
+nationality
+  USA
+
+
+
+death date
+2012-12-29 / age 96
+
+
+
+debut
+1937-09-03
+
+
+
+division
+  bantamweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 3″   /   160cm
+
+
+
+residence
+Honolulu, Hawaii, USA
+
+
+birth place
+ Honolulu, Hawaii, USA
+
+
+
+
+
+

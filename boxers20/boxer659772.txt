@@ -1,0 +1,216 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Oleksandr Usyk
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+0
+0
+
+
+12 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #659772
+
+
+role
+boxer
+
+
+
+rating
+
+
+
+
+
+ 
+
+        1 / 1,185
+        
+
+
+        1 / 29
+        
+
+
+
+
+VADA CBP
+  enrolled
+
+
+
+bouts
+16
+
+
+
+rounds
+125
+
+
+
+KOs
+75%
+
+
+
+
+
+
+
+
+status
+active
+
+
+
+titles held
+
+World Boxing Association Super World Cruiserweight TitleWorld Boxing Council World Cruiserweight TitleInternational Boxing Federation World Cruiserweight TitleWorld Boxing Organisation World Cruiserweight Title
+
+
+
+birth name
+Олександр Олександрович Усик
+
+
+
+born
+ 1987-01-17
+
+    / age 32
+  
+
+
+nationality
+  Ukraine
+
+
+
+debut
+2013-11-09
+
+
+
+division
+  cruiserweight
+
+
+
+stance
+southpaw
+
+
+
+height
+6′ 3″   /   190cm
+
+
+
+reach
+
+
+
+
+78″   /   198cm
+
+
+
+residence
+Kiev, Ukraine
+
+
+birth place
+ Ukraine
+
+
+
+manager/agent
+ Egis Klimas
+
+
+
+
+ register as manager
+
+
+
+promoter
+ Alexander Krassyuk
+
+
+
+
+ register as promoter
+
+
+
+
+
+

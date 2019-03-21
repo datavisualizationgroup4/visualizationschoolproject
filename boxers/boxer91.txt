@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Don Waldhelm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+5
+2
+
+
+0 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000091
+
+
+role
+boxer
+
+
+
+bouts
+12
+
+
+
+rounds
+49
+
+
+
+KOs
+0%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Donald R. Waldhelm
+
+
+
+born
+ 1939-03-17
+
+
+
+nationality
+  USA
+
+
+
+debut
+1965-04-20
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+residence
+Brooklyn, New York, USA
+
+
+birth place
+ Brooklyn, New York, USA
+
+
+
+
+
+

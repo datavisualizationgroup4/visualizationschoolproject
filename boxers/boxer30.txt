@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lou Transparenti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+32
+1
+
+
+10 KOs
+21 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000030
+
+
+role
+boxer
+
+
+
+bouts
+68
+
+
+
+rounds
+450
+
+
+
+KOs
+15%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1918-07-06
+
+
+
+nationality
+  USA
+
+
+
+death date
+2005-08-21 / age 87
+
+
+
+debut
+1937-03-29
+
+
+
+division
+  featherweight
+
+
+
+height
+5′ 6½″   /   169cm
+
+
+
+residence
+Baltimore, Maryland, USA
+
+
+birth place
+ Baltimore, Maryland, USA
+
+
+
+
+
+

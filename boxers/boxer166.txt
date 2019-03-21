@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lupe Pintor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56
+14
+2
+
+
+42 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000166
+
+
+role
+boxer
+
+
+
+bouts
+72
+
+
+
+rounds
+474
+
+
+
+KOs
+58%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+José Guadalupe Pintor Guzmán
+
+
+
+alias
+El Grillo de Cuajimalpa/El Indio
+
+
+
+born
+ 1955-04-13
+
+
+
+nationality
+  Mexico
+
+
+
+debut
+1974-03-26
+
+
+
+division
+  bantamweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+reach
+
+
+
+
+66″   /   168cm
+
+
+
+residence
+Mexico City, Distrito Federal, Mexico
+
+
+birth place
+ Cuajimalpa de Morelos, Distrito Federal, Mexico
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Roberto Duran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+103
+16
+0
+
+
+70 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000080
+
+
+role
+boxer
+
+
+
+bouts
+119
+
+
+
+rounds
+821
+
+
+
+KOs
+59%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Roberto Duran Samaniego
+
+
+
+alias
+Manos de Piedra / El Cholo
+
+
+
+born
+ 1951-06-16
+
+
+
+nationality
+  Panama
+
+
+
+debut
+1968-02-23
+
+
+
+division
+  lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 7″   /   170cm
+
+
+
+reach
+
+
+
+
+66″   /   168cm
+
+
+
+residence
+Panama City, Panama
+
+
+birth place
+ El Chorrillo, Panama
+
+
+
+
+
+

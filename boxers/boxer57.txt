@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Memo Valero
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41
+24
+0
+
+
+14 KOs
+17 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000057
+
+
+role
+boxer
+
+
+
+bouts
+65
+
+
+
+rounds
+493
+
+
+
+KOs
+22%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Guillermo Valero Meré
+
+
+
+born
+ 1922-04-28
+
+
+
+nationality
+  Mexico
+
+
+
+death date
+2008-12-24 / age 86
+
+
+
+debut
+1943-05-28
+
+
+
+division
+  featherweight
+
+
+
+residence
+Mexicali, Baja California, Mexico
+
+
+birth place
+ Distrito Federal, Mexico
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lloyd Marshall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+70
+25
+4
+
+
+36 KOs
+11 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000128
+
+
+role
+boxer
+
+
+
+bouts
+99
+
+
+
+rounds
+738
+
+
+
+KOs
+36%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1914-06-04
+
+
+
+nationality
+  USA
+
+
+
+death date
+1997-08-04 / age 83
+
+
+
+debut
+1936-09-11
+
+
+
+division
+  middleweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 10″   /   178cm
+
+
+
+reach
+
+
+
+
+74½″   /   189cm
+
+
+
+residence
+Cleveland, Ohio, USA
+
+
+birth place
+ Madison County, Georgia, USA
+
+
+
+
+
+

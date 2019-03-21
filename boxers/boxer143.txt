@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Greg Potter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+6
+3
+
+
+1 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000143
+
+
+role
+boxer
+
+
+
+bouts
+24
+
+
+
+rounds
+159
+
+
+
+KOs
+4%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Gregory Wayne Potter
+
+
+
+alias
+Irish
+
+
+
+born
+ 1947-04-28
+
+
+
+nationality
+  USA
+
+
+
+death date
+2008-05-11 / age 61
+
+
+
+debut
+1971-09-13
+
+
+
+division
+  lightweight
+
+
+
+residence
+Northridge, California, USA
+
+
+birth place
+ Joplin, Missouri, USA
+
+
+
+
+
+

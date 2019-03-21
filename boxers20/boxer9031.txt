@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Sonny Liston
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50
+4
+0
+
+
+39 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #009031
+
+
+role
+boxer referee
+
+
+
+bouts
+54
+
+
+
+rounds
+265
+
+
+
+KOs
+72%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Charles L. Liston
+
+
+
+born
+ 1930-00-00
+
+
+
+nationality
+  USA
+
+
+
+death date
+1970-12-30 / age 40
+
+
+
+debut
+1953-09-02
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 1″   /   185cm
+
+
+
+reach
+
+
+
+
+84″   /   213cm
+
+
+
+residence
+Saint Louis, Missouri, USA
+
+
+birth place
+ Johnson Township, Arkansas, USA
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Jack O'Halloran
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+21
+2
+
+
+17 KOs
+8 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000109
+
+
+role
+boxer
+
+
+
+bouts
+57
+
+
+
+rounds
+392
+
+
+
+KOs
+30%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+The Giant
+
+
+
+born
+ 1943-04-08
+
+
+
+nationality
+  USA
+
+
+
+debut
+1966-09-22
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 6″   /   198cm
+
+
+
+residence
+Runnemede, New Jersey, USA
+
+
+birth place
+ Philadelphia, Pennsylvania, USA
+
+
+
+
+
+

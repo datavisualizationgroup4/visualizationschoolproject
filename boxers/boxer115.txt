@@ -1,0 +1,165 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+George Johnson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+27
+5
+
+
+11 KOs
+12 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000115
+
+
+role
+boxer
+
+
+
+bouts
+54
+
+
+
+rounds
+394
+
+
+
+KOs
+20%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+George Raft Johnson
+
+
+
+alias
+Scrap Iron
+
+
+
+born
+ 1938-12-15
+
+
+
+nationality
+  USA
+
+
+
+death date
+2016-04-09 / age 77
+
+
+
+debut
+1958-06-09
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 9″   /   175cm
+
+
+
+residence
+Oklahoma City, Oklahoma, USA
+
+
+birth place
+ Oklahoma City, Oklahoma, USA
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Buddy Jacklich
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26
+8
+3
+
+
+9 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000059
+
+
+role
+boxer
+
+
+
+bouts
+37
+
+
+
+rounds
+253
+
+
+
+KOs
+24%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Lloyd Jacklich
+
+
+
+born
+ 1921-07-26
+
+
+
+nationality
+  USA
+
+
+
+death date
+2004-10-30 / age 83
+
+
+
+debut
+1941-03-10
+
+
+
+division
+  lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 4½″   /   164cm
+
+
+
+residence
+San Francisco, California, USA
+
+
+
+
+

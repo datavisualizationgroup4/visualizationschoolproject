@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Jackie McCoy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+12
+5
+
+
+9 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000073
+
+
+role
+boxer
+
+
+
+bouts
+51
+
+
+
+rounds
+337
+
+
+
+KOs
+18%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Warren Spaw
+
+
+
+born
+ 1923-10-04
+
+
+
+nationality
+  USA
+
+
+
+death date
+1997-01-15 / age 73
+
+
+
+debut
+1942-01-02
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+residence
+Hollywood, California, USA
+
+
+birth place
+ Oxnard, California, USA
+
+
+
+
+
+

@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Rocky Marciano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49
+0
+0
+
+
+43 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #009032
+
+
+role
+boxer referee
+
+
+
+bouts
+49
+
+
+
+rounds
+241
+
+
+
+KOs
+88%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Rocco Francis Marchegiano
+
+
+
+alias
+The Brockton Blockbuster
+
+
+
+born
+ 1923-09-01
+
+
+
+nationality
+  USA
+
+
+
+death date
+1969-08-31 / age 45
+
+
+
+debut
+1947-03-17
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 10½″   /   179cm
+
+
+
+reach
+
+
+
+
+68″   /   173cm
+
+
+
+residence
+Brockton, Massachusetts, USA
+
+
+birth place
+ Brockton, Massachusetts, USA
+
+
+
+
+
+

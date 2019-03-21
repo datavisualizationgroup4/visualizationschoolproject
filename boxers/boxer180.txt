@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Muhammad Ali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56
+5
+0
+
+
+37 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000180
+
+
+role
+boxer
+
+
+
+bouts
+61
+
+
+
+rounds
+548
+
+
+
+KOs
+61%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Cassius Marcellus Clay
+
+
+
+alias
+The Greatest
+
+
+
+born
+ 1942-01-17
+
+
+
+nationality
+  USA
+
+
+
+death date
+2016-06-03 / age 74
+
+
+
+debut
+1960-10-29
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 3″   /   191cm
+
+
+
+reach
+
+
+
+
+78″   /   198cm
+
+
+
+residence
+Louisville, Kentucky, USA
+
+
+birth place
+ Louisville, Kentucky, USA
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lou Salica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+17
+12
+
+
+13 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000018
+
+
+role
+boxer
+
+
+
+bouts
+91
+
+
+
+rounds
+807
+
+
+
+KOs
+14%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Luigi Salica
+
+
+
+born
+ 1912-11-16
+
+
+
+nationality
+  USA
+
+
+
+death date
+2002-01-30 / age 89
+
+
+
+debut
+1932-12-03
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+reach
+
+
+
+
+66½″   /   169cm
+
+
+
+residence
+Brooklyn, New York, USA
+
+
+birth place
+ Brooklyn, New York, USA
+
+
+
+
+
+

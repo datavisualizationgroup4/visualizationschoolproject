@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Leroy Carghill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+12
+2
+
+
+1 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000086
+
+
+role
+boxer
+
+
+
+bouts
+21
+
+
+
+rounds
+77
+
+
+
+KOs
+5%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Leroy Hernando Carghill
+
+
+
+alias
+Chombon
+
+
+
+born
+ 1947-12-09
+
+
+
+nationality
+  Panama
+
+
+
+debut
+1965-10-24
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+residence
+Colon, Panama
+
+
+birth place
+ Colon City, Panama
+
+
+
+
+
+

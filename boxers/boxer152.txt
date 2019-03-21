@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Gerardo Ferrat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+16
+2
+
+
+23 KOs
+11 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000152
+
+
+role
+boxer
+
+
+
+bouts
+52
+
+
+
+rounds
+310
+
+
+
+KOs
+44%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Gerardo Ferrat Serrano
+
+
+
+alias
+El Güero
+
+
+
+born
+ 1947-01-29
+
+
+
+nationality
+  Mexico
+
+
+
+debut
+1968-04-12
+
+
+
+division
+  super lightweight
+
+
+
+residence
+Mexicali, Baja California, Mexico
+
+
+birth place
+ Mexicali, Baja California, Mexico
+
+
+
+
+
+

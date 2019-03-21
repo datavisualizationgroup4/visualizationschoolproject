@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Joe Robleto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+40
+9
+
+
+12 KOs
+13 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000026
+
+
+role
+boxer
+
+
+
+bouts
+78
+
+
+
+rounds
+495
+
+
+
+KOs
+15%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Jose Robleto
+
+
+
+born
+ 1923-00-00
+
+
+
+nationality
+  USA
+
+
+
+debut
+1940-06-28
+
+
+
+division
+  bantamweight
+
+
+
+stance
+orthodox
+
+
+
+residence
+Pasadena, California, USA
+
+
+birth place
+ Mexico
+
+
+
+
+
+

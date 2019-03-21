@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Benny Goldberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39
+2
+2
+
+
+17 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000002
+
+
+role
+boxer
+
+
+
+bouts
+44
+
+
+
+rounds
+304
+
+
+
+KOs
+39%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1919-12-21
+
+
+
+nationality
+  USA
+
+
+
+death date
+2001-09-10 / age 81
+
+
+
+debut
+1937-11-29
+
+
+
+division
+  bantamweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+residence
+Detroit, Michigan, USA
+
+
+birth place
+ Warsaw, Poland
+
+
+
+
+
+

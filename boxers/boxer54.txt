@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Manny Ortega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+14
+1
+
+
+22 KOs
+8 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000054
+
+
+role
+boxer
+
+
+
+bouts
+50
+
+
+
+rounds
+352
+
+
+
+KOs
+44%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Manuel Jose Ortega
+
+
+
+born
+ 1919-05-22
+
+
+
+nationality
+  USA
+
+
+
+death date
+2000-11-03 / age 81
+
+
+
+debut
+1944-09-01
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+residence
+El Paso, Texas, USA
+
+
+birth place
+ El Paso, Texas, USA
+
+
+
+
+
+

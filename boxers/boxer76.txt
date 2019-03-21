@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Jackie Graves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+82
+11
+2
+
+
+48 KOs
+9 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000076
+
+
+role
+boxer
+
+
+
+bouts
+95
+
+
+
+rounds
+525
+
+
+
+KOs
+51%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+John Thomas Graves
+
+
+
+alias
+The Austin Atom
+
+
+
+born
+ 1922-09-12
+
+
+
+nationality
+  USA
+
+
+
+death date
+2005-11-15 / age 83
+
+
+
+debut
+1944-02-01
+
+
+
+division
+  featherweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 7½″   /   171cm
+
+
+
+reach
+
+
+
+
+65″   /   165cm
+
+
+
+residence
+Austin, Minnesota, USA
+
+
+birth place
+ Austin, Minnesota, USA
+
+
+
+
+
+

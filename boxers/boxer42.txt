@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Larry Bolvin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44
+17
+2
+
+
+19 KOs
+6 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000042
+
+
+role
+boxer
+
+
+
+bouts
+63
+
+
+
+rounds
+464
+
+
+
+KOs
+30%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Lawrence Bolvin
+
+
+
+alias
+Dynamite
+
+
+
+born
+ 1919-11-26
+
+
+
+nationality
+  USA
+
+
+
+death date
+2008-06-27 / age 88
+
+
+
+debut
+1939-02-06
+
+
+
+division
+  featherweight
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+residence
+Providence, Rhode Island, USA
+
+
+
+
+

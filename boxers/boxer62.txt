@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Dado Marino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57
+15
+3
+
+
+21 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000062
+
+
+role
+boxer
+
+
+
+bouts
+75
+
+
+
+rounds
+569
+
+
+
+KOs
+28%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Salvador Marino
+
+
+
+born
+ 1915-10-15
+
+
+
+nationality
+  USA
+
+
+
+death date
+1989-10-28 / age 74
+
+
+
+debut
+1941-06-20
+
+
+
+division
+  flyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 2″   /   157cm
+
+
+
+reach
+
+
+
+
+64″   /   163cm
+
+
+
+residence
+Honolulu, Hawaii, USA
+
+
+birth place
+ Maui, Hawaii, USA
+
+
+
+
+
+

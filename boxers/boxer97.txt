@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Chuck Wepner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+14
+2
+
+
+17 KOs
+9 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000097
+
+
+role
+boxer
+
+
+
+bouts
+52
+
+
+
+rounds
+366
+
+
+
+KOs
+33%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Charles Wepner
+
+
+
+alias
+Bayonne Bleeder
+
+
+
+born
+ 1939-02-26
+
+
+
+nationality
+  USA
+
+
+
+debut
+1964-08-05
+
+
+
+division
+  heavyweight
+
+
+
+height
+6′ 5″   /   196cm
+
+
+
+residence
+Bayonne, New Jersey, USA
+
+
+birth place
+ New York, New York, USA
+
+
+
+
+
+

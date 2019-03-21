@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Gregorio Peralta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+98
+9
+9
+
+
+60 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000110
+
+
+role
+boxer
+
+
+
+bouts
+116
+
+
+
+rounds
+802
+
+
+
+KOs
+52%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Gregorio Manuel Peralta
+
+
+
+alias
+Goyo
+
+
+
+born
+ 1935-05-08
+
+
+
+nationality
+  Argentina
+
+
+
+death date
+2001-10-03 / age 66
+
+
+
+debut
+1958-04-05
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 0″   /   183cm
+
+
+
+reach
+
+
+
+
+77″   /   196cm
+
+
+
+residence
+Rosario, Santa Fe, Argentina
+
+
+birth place
+ San Juan, San Juan, Argentina
+
+
+
+
+
+

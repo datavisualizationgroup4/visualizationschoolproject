@@ -1,0 +1,211 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Vasiliy Lomachenko
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+1
+0
+
+
+9 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #659771
+
+
+role
+boxer
+
+
+
+rating
+
+
+
+
+
+ 
+
+        1 / 2,046
+        
+
+
+        1 / 7
+        
+
+
+
+
+bouts
+13
+
+
+
+rounds
+115
+
+
+
+KOs
+69%
+
+
+
+
+
+
+
+
+status
+active
+
+
+
+titles held
+
+World Boxing Association Super World Lightweight TitleWorld Boxing Organisation World Lightweight Title
+
+
+
+birth name
+Vasiliy Anatoliyovich Lomachenko
+
+
+
+alias
+Hi-Tech
+
+
+
+born
+ 1988-02-17
+
+    / age 31
+  
+
+
+nationality
+  Ukraine
+
+
+
+debut
+2013-10-12
+
+
+
+division
+  lightweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 7″   /   170cm
+
+
+
+reach
+
+
+
+
+65½″   /   166cm
+
+
+
+residence
+Oxnard, California, USA
+
+
+birth place
+ Bilhorod-Dnistrovskyi, Ukraine
+
+
+
+manager/agent
+ Egis Klimas
+
+
+
+
+ register as manager
+
+
+
+
+ register as promoter
+
+
+
+
+
+

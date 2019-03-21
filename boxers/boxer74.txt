@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Eddie Chavez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60
+12
+3
+
+
+18 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000074
+
+
+role
+boxer
+
+
+
+bouts
+75
+
+
+
+rounds
+610
+
+
+
+KOs
+24%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Edmundo Torres Chavez
+
+
+
+alias
+Mundo
+
+
+
+born
+ 1930-11-20
+
+
+
+nationality
+  USA
+
+
+
+death date
+2003-02-22 / age 72
+
+
+
+debut
+1948-12-07
+
+
+
+division
+  lightweight
+
+
+
+residence
+San Jose, California, USA
+
+
+birth place
+ Santa Paula, California, USA
+
+
+
+
+
+

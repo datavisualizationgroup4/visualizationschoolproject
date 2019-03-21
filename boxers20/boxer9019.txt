@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Harry Greb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+107
+8
+3
+
+
+48 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #009019
+
+
+role
+boxer
+
+
+
+bouts
+119
+
+
+
+rounds
+1004
+
+
+
+KOs
+40%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Edward Henry Greb
+
+
+
+alias
+Pittsburgh Windmill
+
+
+
+born
+ 1894-06-06
+
+
+
+nationality
+  USA
+
+
+
+death date
+1926-10-22 / age 32
+
+
+
+debut
+1913-05-29
+
+
+
+division
+  middleweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 8″   /   173cm
+
+
+
+reach
+
+
+
+
+71″   /   180cm
+
+
+
+residence
+Pittsburgh, Pennsylvania, USA
+
+
+birth place
+ Pittsburgh, Pennsylvania, USA
+
+
+
+
+
+

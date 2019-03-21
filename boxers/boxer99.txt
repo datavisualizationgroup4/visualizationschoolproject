@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Roy Wallace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+36
+2
+
+
+13 KOs
+13 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000099
+
+
+role
+boxer
+
+
+
+bouts
+62
+
+
+
+rounds
+440
+
+
+
+KOs
+21%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Roy Dean Wallace
+
+
+
+alias
+Cookie
+
+
+
+born
+ 1946-04-12
+
+
+
+nationality
+  USA
+
+
+
+death date
+2015-09-05 / age 69
+
+
+
+debut
+1967-02-20
+
+
+
+division
+  heavyweight
+
+
+
+residence
+Dallas, Texas, USA
+
+
+birth place
+ Dallas, Texas, USA
+
+
+
+
+
+

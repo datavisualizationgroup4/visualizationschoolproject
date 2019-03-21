@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Bert van Nikkelen Kuyper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+12
+1
+
+
+2 KOs
+9 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000179
+
+
+role
+boxer
+
+
+
+bouts
+22
+
+
+
+rounds
+103
+
+
+
+KOs
+9%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1942-09-24
+
+
+
+nationality
+  Netherlands
+
+
+
+death date
+2012-06-01 / age 69
+
+
+
+debut
+1970-11-16
+
+
+
+division
+  heavyweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 3″   /   160cm
+
+
+
+reach
+
+
+
+
+64″   /   163cm
+
+
+
+residence
+Rotterdam, Netherlands
+
+
+birth place
+ Rotterdam, Netherlands
+
+
+
+
+
+

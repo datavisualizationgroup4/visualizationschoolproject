@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Ted Gullick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+8
+1
+
+
+14 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000140
+
+
+role
+boxer
+
+
+
+bouts
+24
+
+
+
+rounds
+120
+
+
+
+KOs
+58%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Gulech
+
+
+
+born
+ 1945-01-01
+
+
+
+nationality
+  USA
+
+
+
+death date
+1986-12-14 / age 41
+
+
+
+debut
+1969-07-30
+
+
+
+division
+  heavyweight
+
+
+
+height
+6′ 0″   /   183cm
+
+
+
+residence
+Cleveland, Ohio, USA
+
+
+birth place
+ Youngstown, Ohio, USA
+
+
+
+
+
+

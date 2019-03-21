@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Harold Dade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38
+32
+6
+
+
+8 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000053
+
+
+role
+boxer
+
+
+
+bouts
+76
+
+
+
+rounds
+672
+
+
+
+KOs
+11%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1923-03-24
+
+
+
+nationality
+  USA
+
+
+
+death date
+1962-07-17 / age 39
+
+
+
+debut
+1942-12-18
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+reach
+
+
+
+
+68½″   /   174cm
+
+
+
+residence
+Chicago, Illinois, USA
+
+
+birth place
+ Chicago, Illinois, USA
+
+
+
+
+
+

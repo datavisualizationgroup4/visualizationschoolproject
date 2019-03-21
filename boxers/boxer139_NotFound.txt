@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Clarence Boone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+26
+2
+
+
+2 KOs
+14 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000138
+
+
+role
+boxer
+
+
+
+bouts
+31
+
+
+
+rounds
+148
+
+
+
+KOs
+6%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+C.B.
+
+
+
+born
+ 1932-04-17
+
+
+
+nationality
+  USA
+
+
+
+death date
+2010-11-02 / age 78
+
+
+
+debut
+1957-08-05
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 2″   /   188cm
+
+
+
+residence
+Fort Worth, Texas, USA
+
+
+birth place
+ Marshall, Texas, USA
+
+
+
+
+
+

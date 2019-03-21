@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Boone Kirkman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+6
+0
+
+
+25 KOs
+5 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000122
+
+
+role
+boxer
+
+
+
+bouts
+42
+
+
+
+rounds
+213
+
+
+
+KOs
+60%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Daniel Victor Kirkman
+
+
+
+alias
+Boom Boom
+
+
+
+born
+ 1945-02-06
+
+
+
+nationality
+  USA
+
+
+
+debut
+1966-04-01
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 1″   /   185cm
+
+
+
+residence
+Renton, Washington, USA
+
+
+birth place
+ Vallejo, California, USA
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Jackie Jurich
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+61
+13
+9
+
+
+22 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000015
+
+
+role
+boxer
+
+
+
+bouts
+83
+
+
+
+rounds
+591
+
+
+
+KOs
+27%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+John Leo Jurich
+
+
+
+alias
+Rose of San Jose
+
+
+
+born
+ 1918-08-14
+
+
+
+nationality
+  USA
+
+
+
+debut
+1935-08-23
+
+
+
+division
+  flyweight
+
+
+
+residence
+San Jose, California, USA
+
+
+birth place
+ Palo Alto, California, USA
+
+
+
+
+
+

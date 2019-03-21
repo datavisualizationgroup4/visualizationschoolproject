@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Enrique Bolanos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79
+22
+5
+
+
+44 KOs
+8 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000044
+
+
+role
+boxer
+
+
+
+bouts
+106
+
+
+
+rounds
+792
+
+
+
+KOs
+42%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Durango Dropper
+
+
+
+born
+ 1924-08-24
+
+
+
+nationality
+  USA
+
+
+
+death date
+2012-06-04 / age 87
+
+
+
+debut
+1941-06-06
+
+
+
+division
+  lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 8″   /   173cm
+
+
+
+reach
+
+
+
+
+73″   /   185cm
+
+
+
+residence
+Los Angeles, California, USA
+
+
+birth place
+ Durango, Mexico
+
+
+
+
+
+

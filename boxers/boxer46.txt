@@ -1,0 +1,145 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lorenzo Safora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+32
+4
+
+
+11 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000046
+
+
+role
+boxer
+
+
+
+bouts
+69
+
+
+
+rounds
+580
+
+
+
+KOs
+16%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1921-01-01
+
+
+
+nationality
+  Cuba
+
+
+
+debut
+1939-11-18
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 2″   /   157cm
+
+
+
+residence
+Havana, Cuba
+
+
+birth place
+ Havana, Cuba
+
+
+
+
+
+

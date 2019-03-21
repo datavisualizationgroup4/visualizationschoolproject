@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Carlos Mendoza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49
+19
+5
+
+
+39 KOs
+13 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000081
+
+
+role
+boxer
+
+
+
+bouts
+74
+
+
+
+rounds
+445
+
+
+
+KOs
+53%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+El Cañonero
+
+
+
+born
+ 1949-11-01
+
+
+
+nationality
+  Panama
+
+
+
+debut
+1968-01-28
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+residence
+Mexico City, Distrito Federal, Mexico
+
+
+birth place
+ Puerto Armuelles, Panama
+
+
+
+
+
+

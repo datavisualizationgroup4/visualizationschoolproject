@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Guts Ishimatsu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+14
+6
+
+
+17 KOs
+5 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000159
+
+
+role
+boxer
+
+
+
+bouts
+51
+
+
+
+rounds
+365
+
+
+
+KOs
+33%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Yuji Suzuki
+
+
+
+alias
+Ishimatsu Suzuki
+
+
+
+born
+ 1949-06-05
+
+
+
+nationality
+  Japan
+
+
+
+debut
+1966-12-11
+
+
+
+division
+  lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 7½″   /   171cm
+
+
+
+reach
+
+
+
+
+67½″   /   172cm
+
+
+
+residence
+Tokyo, Japan
+
+
+birth place
+ Tochigi, Japan
+
+
+
+
+
+

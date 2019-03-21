@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lauro Salas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91
+58
+13
+
+
+45 KOs
+8 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000058
+
+
+role
+boxer
+
+
+
+bouts
+163
+
+
+
+rounds
+1385
+
+
+
+KOs
+28%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Lion of Monterrey
+
+
+
+born
+ 1928-08-28
+
+
+
+nationality
+  Mexico
+
+
+
+death date
+1987-01-18 / age 58
+
+
+
+debut
+1946-04-26
+
+
+
+division
+  lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 6″   /   168cm
+
+
+
+reach
+
+
+
+
+67½″   /   171cm
+
+
+
+residence
+Monterrey, Nuevo León, Mexico
+
+
+birth place
+ Monterrey, Nuevo León, Mexico
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Stamford Harris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+27
+2
+
+
+3 KOs
+11 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000127
+
+
+role
+boxer
+
+
+
+bouts
+44
+
+
+
+rounds
+296
+
+
+
+KOs
+7%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Stamford Antonarias
+
+
+
+alias
+Kid / Big Bamboo
+
+
+
+nationality
+  Jamaica
+
+
+
+death date
+1975-00-00 / age not known
+
+
+
+debut
+1953-10-17
+
+
+
+division
+  heavyweight
+
+
+
+height
+6′ 5½″   /   197cm
+
+
+
+residence
+Kingston, Jamaica
+
+
+birth place
+ Saint Mary Parish, Jamaica
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Rush Dalma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36
+10
+15
+
+
+4 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000025
+
+
+role
+boxer
+
+
+
+bouts
+61
+
+
+
+rounds
+487
+
+
+
+KOs
+7%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Dalmacio De Luna
+
+
+
+born
+ 1914-11-05
+
+
+
+nationality
+  Philippines
+
+
+
+debut
+1932-12-28
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+residence
+Stockton, California, USA
+
+
+birth place
+ Cabugan, Misamis Occidental, Philippines
+
+
+
+
+
+

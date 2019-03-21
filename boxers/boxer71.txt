@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Theo Medina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92
+45
+14
+
+
+31 KOs
+9 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000071
+
+
+role
+boxer
+
+
+
+bouts
+152
+
+
+
+rounds
+1358
+
+
+
+KOs
+20%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Le petit prince
+
+
+
+born
+ 1918-06-24
+
+
+
+nationality
+  France
+
+
+
+death date
+1983-06-07 / age 64
+
+
+
+debut
+1938-04-05
+
+
+
+division
+  bantamweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 3½″   /   161cm
+
+
+
+residence
+Paris, France
+
+
+birth place
+ Saint-Parize-le-Châtel, Nièvre, France
+
+
+
+
+
+

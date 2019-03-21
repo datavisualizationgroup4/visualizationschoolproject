@@ -1,0 +1,211 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Terence Crawford
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+0
+0
+
+
+25 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #447121
+
+
+role
+boxer
+
+
+
+rating
+
+
+
+
+
+ 
+
+        1 / 2,014
+        
+
+
+        1 / 367
+        
+
+
+
+
+VADA CBP
+  enrolled
+
+
+
+bouts
+34
+
+
+
+rounds
+189
+
+
+
+KOs
+74%
+
+
+
+
+
+
+
+
+status
+active
+
+
+
+titles held
+
+World Boxing Organisation World Welterweight Title
+
+
+
+birth name
+Terence Allan Crawford
+
+
+
+alias
+Bud
+
+
+
+born
+ 1987-09-28
+
+    / age 31
+  
+
+
+nationality
+  USA
+
+
+
+debut
+2008-03-14
+
+
+
+division
+  welterweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 8″   /   173cm
+
+
+
+reach
+
+
+
+
+74″   /   188cm
+
+
+
+residence
+Omaha, Nebraska, USA
+
+
+birth place
+ Omaha, Nebraska, USA
+
+
+
+
+ register as manager
+
+
+
+
+ register as promoter
+
+
+
+
+
+

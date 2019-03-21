@@ -1,0 +1,140 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Bert White
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+26
+5
+
+
+4 KOs
+14 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000048
+
+
+role
+boxer
+
+
+
+bouts
+59
+
+
+
+rounds
+306
+
+
+
+KOs
+7%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Bertrand White
+
+
+
+nationality
+  USA
+
+
+
+debut
+1943-07-06
+
+
+
+division
+  featherweight
+
+
+
+residence
+Los Angeles, California, USA
+
+
+birth place
+ USA
+
+
+
+
+
+

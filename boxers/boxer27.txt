@@ -1,0 +1,145 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Lupe Cordoza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+13
+7
+
+
+4 KOs
+5 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000027
+
+
+role
+boxer
+
+
+
+bouts
+34
+
+
+
+rounds
+220
+
+
+
+KOs
+12%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1914-11-16
+
+
+
+nationality
+  USA
+
+
+
+death date
+1997-02-00 / age 82
+
+
+
+debut
+1936-09-03
+
+
+
+division
+  bantamweight
+
+
+
+residence
+Los Angeles, California, USA
+
+
+birth place
+ Sacramento, California, USA
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Luis Faustino Pires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+11
+1
+
+
+16 KOs
+8 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000135
+
+
+role
+boxer
+
+
+
+bouts
+40
+
+
+
+rounds
+293
+
+
+
+KOs
+40%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1938-09-08
+
+
+
+nationality
+  Brazil
+
+
+
+death date
+2006-10-12 / age 68
+
+
+
+debut
+1965-12-07
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 2″   /   188cm
+
+
+
+residence
+Sao Paulo, Sao Paulo, Brazil
+
+
+birth place
+ Eubanque de Camara, Minas Gerais, Brazil
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Vic Toweel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+3
+1
+
+
+14 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000072
+
+
+role
+boxer
+
+
+
+bouts
+32
+
+
+
+rounds
+250
+
+
+
+KOs
+44%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Victor Anthony Toweel
+
+
+
+alias
+The Benoni Atom
+
+
+
+born
+ 1928-01-12
+
+
+
+nationality
+  South Africa
+
+
+
+death date
+2008-08-15 / age 80
+
+
+
+debut
+1949-01-29
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+reach
+
+
+
+
+69″   /   175cm
+
+
+
+residence
+Benoni, Gauteng, South Africa
+
+
+birth place
+ Benoni, Gauteng, South Africa
+
+
+
+
+
+

@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Tony Olivera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+77
+27
+16
+
+
+32 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000031
+
+
+role
+boxer
+
+
+
+bouts
+120
+
+
+
+rounds
+935
+
+
+
+KOs
+27%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Antonio Olivera
+
+
+
+born
+ 1917-08-28
+
+
+
+nationality
+  USA
+
+
+
+death date
+1996-02-10 / age 78
+
+
+
+debut
+1937-10-26
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 5½″   /   166cm
+
+
+
+residence
+San Francisco, California, USA
+
+
+birth place
+ San Francisco, California, USA
+
+
+
+
+
+

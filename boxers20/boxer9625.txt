@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Sugar Ray Robinson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+174
+19
+6
+
+
+109 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #009625
+
+
+role
+boxer
+
+
+
+bouts
+201
+
+
+
+rounds
+1401
+
+
+
+KOs
+54%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Walker Smith Jr.
+
+
+
+born
+ 1921-05-03
+
+
+
+nationality
+  USA
+
+
+
+death date
+1989-04-12 / age 67
+
+
+
+debut
+1940-10-04
+
+
+
+division
+  middleweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 11″   /   180cm
+
+
+
+reach
+
+
+
+
+72½″   /   184cm
+
+
+
+residence
+Harlem, New York, USA
+
+
+birth place
+ Vidalia, Georgia, USA
+
+
+
+
+
+

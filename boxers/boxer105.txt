@@ -1,0 +1,165 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Bob Hazelton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+11
+0
+
+
+18 KOs
+11 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000105
+
+
+role
+boxer
+
+
+
+bouts
+31
+
+
+
+rounds
+93
+
+
+
+KOs
+58%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Robert Joseph Hazelton
+
+
+
+alias
+Kid
+
+
+
+born
+ 1946-11-11
+
+
+
+nationality
+  USA
+
+
+
+death date
+2014-10-16 / age 67
+
+
+
+debut
+1966-10-10
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 7″   /   201cm
+
+
+
+residence
+Los Angeles, California, USA
+
+
+birth place
+ Philadelphia, Pennsylvania, USA
+
+
+
+
+
+

@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Willie Pep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+229
+11
+1
+
+
+65 KOs
+6 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000043
+
+
+role
+boxer referee
+
+
+
+bouts
+241
+
+
+
+rounds
+1955
+
+
+
+KOs
+27%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Gugliermo Papaleo
+
+
+
+alias
+Will o' the Wisp
+
+
+
+born
+ 1922-09-19
+
+
+
+nationality
+  USA
+
+
+
+death date
+2006-11-23 / age 84
+
+
+
+debut
+1940-07-25
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+reach
+
+
+
+
+68″   /   173cm
+
+
+
+residence
+Rocky Hill, Connecticut, USA
+
+
+birth place
+ Middletown, Connecticut, USA
+
+
+
+
+
+

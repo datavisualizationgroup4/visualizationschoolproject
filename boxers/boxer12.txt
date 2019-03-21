@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Small Montana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+81
+22
+10
+
+
+11 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000012
+
+
+role
+boxer
+
+
+
+bouts
+114
+
+
+
+rounds
+898
+
+
+
+KOs
+10%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Benjamin Gan
+
+
+
+born
+ 1913-02-24
+
+
+
+nationality
+  Philippines
+
+
+
+death date
+1976-08-04 / age 63
+
+
+
+debut
+1930-01-01
+
+
+
+division
+  flyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+residence
+La Carlota City, Negros Occidental, Philippines
+
+
+birth place
+ Philippines
+
+
+
+
+
+

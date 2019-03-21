@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Joe Frazier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+4
+1
+
+
+27 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000147
+
+
+role
+boxer
+
+
+
+bouts
+37
+
+
+
+rounds
+212
+
+
+
+KOs
+73%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Joseph William Frazier
+
+
+
+alias
+Smokin'
+
+
+
+born
+ 1944-01-12
+
+
+
+nationality
+  USA
+
+
+
+death date
+2011-11-07 / age 67
+
+
+
+debut
+1965-08-16
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 11½″   /   182cm
+
+
+
+reach
+
+
+
+
+73″   /   185cm
+
+
+
+residence
+Philadelphia, Pennsylvania, USA
+
+
+birth place
+ Beaufort, South Carolina, USA
+
+
+
+
+
+

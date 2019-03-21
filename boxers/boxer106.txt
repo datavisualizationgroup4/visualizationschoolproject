@@ -1,0 +1,160 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Levi Forte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+28
+3
+
+
+10 KOs
+16 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000106
+
+
+role
+boxer
+
+
+
+bouts
+51
+
+
+
+rounds
+312
+
+
+
+KOs
+20%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+Superfly / Battling Bellman
+
+
+
+born
+ 1940-03-19
+
+
+
+nationality
+  USA
+
+
+
+death date
+2018-02-18 / age 77
+
+
+
+debut
+1961-06-05
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 1″   /   185cm
+
+
+
+residence
+Miami Beach, Florida, USA
+
+
+birth place
+ Gadsden, Alabama, USA
+
+
+
+
+
+

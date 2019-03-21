@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Joe Murphy Gordwin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+15
+1
+
+
+0 KOs
+13 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000137
+
+
+role
+boxer
+
+
+
+bouts
+17
+
+
+
+rounds
+49
+
+
+
+KOs
+0%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Joseph Murphy Gordwin
+
+
+
+alias
+Mustang
+
+
+
+born
+ 1936-03-05
+
+
+
+nationality
+  USA
+
+
+
+death date
+2015-10-01 / age 79
+
+
+
+debut
+1960-10-04
+
+
+
+division
+  heavyweight
+
+
+
+residence
+Houston, Texas, USA
+
+
+birth place
+ Rosa, Louisiana, USA
+
+
+
+
+
+

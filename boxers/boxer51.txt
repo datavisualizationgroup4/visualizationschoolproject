@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Proctor Heinhold
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37
+33
+3
+
+
+15 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000051
+
+
+role
+boxer
+
+
+
+bouts
+73
+
+
+
+rounds
+549
+
+
+
+KOs
+21%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Proctor LaMont Heinhold Jr.
+
+
+
+born
+ 1922-10-22
+
+
+
+nationality
+  USA
+
+
+
+death date
+1989-03-18 / age 66
+
+
+
+debut
+1943-07-15
+
+
+
+division
+  lightweight
+
+
+
+residence
+Oklahoma City, Oklahoma, USA
+
+
+birth place
+ Oklahoma, USA
+
+
+
+
+
+

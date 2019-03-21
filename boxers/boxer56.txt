@@ -1,0 +1,145 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Henry Davis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+51
+24
+5
+
+
+17 KOs
+6 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000056
+
+
+role
+boxer
+
+
+
+bouts
+80
+
+
+
+rounds
+664
+
+
+
+KOs
+21%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1924-07-25
+
+
+
+nationality
+  USA
+
+
+
+death date
+1994-09-19 / age 70
+
+
+
+debut
+1945-06-23
+
+
+
+division
+  lightweight
+
+
+
+height
+5′ 6″   /   168cm
+
+
+
+residence
+Honolulu, Hawaii, USA
+
+
+
+
+

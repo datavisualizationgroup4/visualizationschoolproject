@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Jerry Judge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+8
+1
+
+
+13 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000161
+
+
+role
+boxer
+
+
+
+bouts
+25
+
+
+
+rounds
+111
+
+
+
+KOs
+52%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Gerald Daniel Judge
+
+
+
+born
+ 1948-02-15
+
+
+
+nationality
+  USA
+
+
+
+debut
+1969-07-03
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 0″   /   183cm
+
+
+
+residence
+Margate, New Jersey, USA
+
+
+birth place
+ USA
+
+
+
+
+
+

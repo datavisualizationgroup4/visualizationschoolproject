@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+George Foreman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76
+5
+0
+
+
+68 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000090
+
+
+role
+boxer
+
+
+
+bouts
+81
+
+
+
+rounds
+349
+
+
+
+KOs
+84%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+George Edward Foreman
+
+
+
+alias
+Big George
+
+
+
+born
+ 1949-01-10
+
+
+
+nationality
+  USA
+
+
+
+debut
+1969-06-23
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 3″   /   191cm
+
+
+
+reach
+
+
+
+
+78½″   /   199cm
+
+
+
+residence
+Houston, Texas, USA
+
+
+birth place
+ Marshall, Texas, USA
+
+
+
+
+
+

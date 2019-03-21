@@ -1,0 +1,150 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Pablo Dano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+114
+57
+39
+
+
+37 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000007
+
+
+role
+boxer
+
+
+
+bouts
+211
+
+
+
+rounds
+1839
+
+
+
+KOs
+18%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1908-07-12
+
+
+
+nationality
+  Philippines
+
+
+
+death date
+1994-11-23 / age 86
+
+
+
+debut
+1924-11-29
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 1″   /   155cm
+
+
+
+residence
+Metro Manila, Philippines
+
+
+birth place
+ Bato, Leyte, Philippines
+
+
+
+
+
+

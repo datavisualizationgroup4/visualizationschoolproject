@@ -1,0 +1,159 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Jackie Paterson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63
+25
+3
+
+
+40 KOs
+10 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000070
+
+
+role
+boxer
+
+
+
+bouts
+91
+
+
+
+rounds
+657
+
+
+
+KOs
+44%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1920-09-05
+
+
+
+nationality
+  United Kingdom
+
+
+
+death date
+1966-11-19 / age 46
+
+
+
+debut
+1938-05-27
+
+
+
+division
+  flyweight
+
+
+
+height
+5′ 3½″   /   161cm
+
+
+
+reach
+
+
+
+
+63″   /   160cm
+
+
+
+residence
+Glasgow, Scotland, United Kingdom
+
+
+birth place
+ Springside, Scotland, United Kingdom
+
+
+
+
+
+

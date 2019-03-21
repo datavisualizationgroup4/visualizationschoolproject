@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Larry Holmes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69
+6
+0
+
+
+44 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000150
+
+
+role
+boxer
+
+
+
+bouts
+75
+
+
+
+rounds
+579
+
+
+
+KOs
+59%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+The Easton Assassin
+
+
+
+born
+ 1949-11-03
+
+
+
+nationality
+  USA
+
+
+
+debut
+1973-03-21
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 3″   /   190cm
+
+
+
+reach
+
+
+
+
+81″   /   206cm
+
+
+
+residence
+Easton, Pennsylvania, USA
+
+
+birth place
+ Cuthbert, Georgia, USA
+
+
+
+
+
+

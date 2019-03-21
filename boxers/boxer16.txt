@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Tommy Cobb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26
+19
+11
+
+
+5 KOs
+9 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000016
+
+
+role
+boxer
+
+
+
+bouts
+56
+
+
+
+rounds
+318
+
+
+
+KOs
+9%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Thomas Stewart Cobb
+
+
+
+born
+ 1917-03-13
+
+
+
+nationality
+  USA
+
+
+
+death date
+1995-08-19 / age 78
+
+
+
+debut
+1936-08-25
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 2″   /   157cm
+
+
+
+residence
+San Jose, California, USA
+
+
+birth place
+ Turlock, California, USA
+
+
+
+
+
+

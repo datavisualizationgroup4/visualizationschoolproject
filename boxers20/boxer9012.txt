@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Ezzard Charles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95
+25
+1
+
+
+52 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #009012
+
+
+role
+boxer
+
+
+
+bouts
+121
+
+
+
+rounds
+967
+
+
+
+KOs
+43%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Ezzard Mack Charles
+
+
+
+alias
+The Cincinnati Cobra
+
+
+
+born
+ 1921-07-07
+
+
+
+nationality
+  USA
+
+
+
+death date
+1975-05-28 / age 53
+
+
+
+debut
+1940-03-12
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 0″   /   183cm
+
+
+
+reach
+
+
+
+
+73″   /   185cm
+
+
+
+residence
+Cincinnati, Ohio, USA
+
+
+birth place
+ Lawrenceville, Georgia, USA
+
+
+
+
+
+

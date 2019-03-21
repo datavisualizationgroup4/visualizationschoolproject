@@ -1,0 +1,174 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Joe Louis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+66
+3
+0
+
+
+52 KOs
+2 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #009027
+
+
+role
+boxer referee
+
+
+
+bouts
+69
+
+
+
+rounds
+417
+
+
+
+KOs
+75%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Joseph Louis Barrow
+
+
+
+alias
+The Brown Bomber
+
+
+
+born
+ 1914-05-13
+
+
+
+nationality
+  USA
+
+
+
+death date
+1981-04-12 / age 66
+
+
+
+debut
+1934-07-04
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 2″   /   188cm
+
+
+
+reach
+
+
+
+
+76″   /   193cm
+
+
+
+residence
+Detroit, Michigan, USA
+
+
+birth place
+ LaFayette, Alabama, USA
+
+
+
+
+
+

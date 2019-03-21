@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Eduardo Bartolome Morales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+4
+0
+
+
+22 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000084
+
+
+role
+boxer
+
+
+
+bouts
+32
+
+
+
+rounds
+143
+
+
+
+KOs
+69%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+alias
+El Cirujano
+
+
+
+born
+ 1970-12-09
+
+
+
+nationality
+  Argentina
+
+
+
+debut
+1995-09-15
+
+
+
+division
+  lightweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 9″   /   175cm
+
+
+
+residence
+Santiago Del Estero, Santiago del Estero, Argentina
+
+
+birth place
+ Santiago Del Estero, Santiago del Estero, Argentina
+
+
+
+
+
+

@@ -1,0 +1,206 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Manny Pacquiao
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+61
+7
+2
+
+
+39 KOs
+3 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #006129
+
+
+role
+boxer promoter
+
+
+
+rating
+
+
+
+
+
+ 
+
+        4 / 2,014
+        
+
+
+        1 / 46
+        
+
+
+
+
+bouts
+70
+
+
+
+rounds
+474
+
+
+
+KOs
+56%
+
+
+
+
+
+
+
+
+status
+active
+
+
+
+titles held
+
+World Boxing Association World Welterweight Title
+
+
+
+birth name
+Emmanuel Dapidran Pacquiao
+
+
+
+alias
+Pac Man
+
+
+
+born
+ 1978-12-17
+
+    / age 40
+  
+
+
+nationality
+  Philippines
+
+
+
+debut
+1995-01-22
+
+
+
+division
+  welterweight
+
+
+
+stance
+southpaw
+
+
+
+height
+5′ 5½″   /   166cm
+
+
+
+reach
+
+
+
+
+67″   /   170cm
+
+
+
+residence
+General Santos City, Cotabato del Sur, Philippines
+
+
+birth place
+ Kibawe, Bukidnon, Philippines
+
+
+
+
+ register as manager
+
+
+
+
+ register as promoter
+
+
+
+
+
+

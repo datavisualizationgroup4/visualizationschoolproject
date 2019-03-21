@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Manuel Ortiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100
+28
+3
+
+
+54 KOs
+1 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000001
+
+
+role
+boxer
+
+
+
+bouts
+131
+
+
+
+rounds
+1108
+
+
+
+KOs
+41%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1916-07-02
+
+
+
+nationality
+  USA
+
+
+
+death date
+1970-05-31 / age 53
+
+
+
+debut
+1938-02-25
+
+
+
+division
+  bantamweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+reach
+
+
+
+
+64½″   /   164cm
+
+
+
+residence
+El Centro, California, USA
+
+
+birth place
+ Corona, California, USA
+
+
+
+
+
+

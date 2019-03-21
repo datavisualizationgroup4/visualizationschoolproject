@@ -1,0 +1,159 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Kenny Lindsay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17
+19
+9
+
+
+8 KOs
+5 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000034
+
+
+role
+boxer
+
+
+
+bouts
+45
+
+
+
+rounds
+348
+
+
+
+KOs
+18%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1921-08-28
+
+
+
+nationality
+  Canada
+
+
+
+death date
+1979-01-00 / age 57
+
+
+
+debut
+1940-03-20
+
+
+
+division
+  bantamweight
+
+
+
+height
+5′ 5″   /   165cm
+
+
+
+reach
+
+
+
+
+66″   /   168cm
+
+
+
+residence
+Vancouver, British Columbia, Canada
+
+
+birth place
+ Edmonton, Alberta, Canada
+
+
+
+
+
+

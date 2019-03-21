@@ -1,0 +1,145 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Ronnie Clayton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80
+26
+8
+
+
+49 KOs
+6 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000069
+
+
+role
+boxer
+
+
+
+bouts
+114
+
+
+
+rounds
+854
+
+
+
+KOs
+43%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+born
+ 1923-02-09
+
+
+
+nationality
+  United Kingdom
+
+
+
+death date
+1999-12-08 / age 76
+
+
+
+debut
+1941-01-03
+
+
+
+division
+  featherweight
+
+
+
+residence
+Blackpool, Lancashire, United Kingdom
+
+
+birth place
+ Blackpool, Lancashire, United Kingdom
+
+
+
+
+
+

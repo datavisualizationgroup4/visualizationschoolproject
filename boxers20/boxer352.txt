@@ -1,0 +1,181 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Floyd Mayweather Jr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50
+0
+0
+
+
+27 KOs
+0 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000352
+
+
+role
+boxer
+
+
+
+bouts
+50
+
+
+
+rounds
+397
+
+
+
+KOs
+54%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Floyd Joy Sinclair
+
+
+
+alias
+Money / Pretty Boy
+
+
+
+born
+ 1977-02-24
+
+
+
+nationality
+  USA
+
+
+
+debut
+1996-10-11
+
+
+
+division
+  welterweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 8″   /   173cm
+
+
+
+reach
+
+
+
+
+72″   /   183cm
+
+
+
+residence
+Las Vegas, Nevada, USA
+
+
+birth place
+ Grand Rapids, Michigan, USA
+
+
+
+
+
+register as manager
+
+
+
+
+
+register as promoter
+
+
+
+
+
+

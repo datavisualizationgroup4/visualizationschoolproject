@@ -1,0 +1,155 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Horace Mann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+18
+10
+
+
+3 KOs
+7 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000019
+
+
+role
+boxer
+
+
+
+bouts
+60
+
+
+
+rounds
+406
+
+
+
+KOs
+5%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Horace Grover Mann
+
+
+
+born
+ 1917-06-06
+
+
+
+nationality
+  USA
+
+
+
+death date
+1947-06-08 / age 30
+
+
+
+debut
+1935-10-18
+
+
+
+division
+  featherweight
+
+
+
+height
+5′ 4″   /   163cm
+
+
+
+residence
+San Francisco, California, USA
+
+
+birth place
+ Wagoner, Oklahoma, USA
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Manuel Hernandez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+23
+2
+
+
+13 KOs
+17 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000077
+
+
+role
+boxer
+
+
+
+bouts
+45
+
+
+
+rounds
+235
+
+
+
+KOs
+29%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Manuel Hernandez Santiago
+
+
+
+born
+ 1973-12-25
+
+
+
+nationality
+  Mexico
+
+
+
+debut
+1989-03-05
+
+
+
+division
+  featherweight
+
+
+
+stance
+orthodox
+
+
+
+height
+5′ 10½″   /   179cm
+
+
+
+reach
+
+
+
+
+69″   /   175cm
+
+
+
+residence
+Mante, Tamaulipas, Mexico
+
+
+birth place
+ Mante, Tamaulipas, Mexico
+
+
+
+
+
+

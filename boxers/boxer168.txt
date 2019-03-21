@@ -1,0 +1,169 @@
+
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU1'); });
+    
+
+
+
+
+      if($("#isMobile").is( ":hidden" )) googletag.cmd.push(function() { googletag.display('StreamAMP_MPU2'); });
+    
+
+
+
+Ken Norton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+7
+1
+
+
+33 KOs
+4 KOs
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID #000168
+
+
+role
+boxer
+
+
+
+bouts
+50
+
+
+
+rounds
+314
+
+
+
+KOs
+66%
+
+
+
+
+
+
+
+
+status
+inactive
+
+
+
+birth name
+Kenneth Howard Norton
+
+
+
+born
+ 1943-08-09
+
+
+
+nationality
+  USA
+
+
+
+death date
+2013-09-18 / age 70
+
+
+
+debut
+1967-11-14
+
+
+
+division
+  heavyweight
+
+
+
+stance
+orthodox
+
+
+
+height
+6′ 3″   /   191cm
+
+
+
+reach
+
+
+
+
+80″   /   203cm
+
+
+
+residence
+San Diego, California, USA
+
+
+birth place
+ Jacksonville, Illinois, USA
+
+
+
+
+
+
