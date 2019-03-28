@@ -31,41 +31,62 @@ def grabTeamData(team, year):
 	return games
 
 def populateFolders(file):
+
+	'''
+	Creates folders based on team name and team year.
+	Ex: {Team}{Year} -> GSW2017
+		Always 3 characters for team name followed by 4 year character for year
+	'''
+
 	df = pd.read_excel(file, sheet_name = 'Sheet1')
 
-	print("Column headings:")
-	print(df.columns)
+	for n, team in enumerate(df['Team']):
+		#Year of team
+		year = df['Year'][n]
+		#folder name that will be created
+		folderName = str(team) + str(year)
+		#print(folderName)
 
-	#Create a folder for each team and a subfolder for each year of that team listed on excel
-	for i in df.index:
-		#Team name -> folder name
-		teamName = df['Team'][i]
-		ensure_dir(teamName)
+		ensure_dir(folderName)
 
 		#Newly made dir for the team -> cd to new dir
-		teamdir = dir_path + "\\" + teamName
+		teamdir = dir_path + "\\" + folderName
 		os.chdir(teamdir)
 
-		#Create new dir for years of the teams
-		teamYear = df['Year'][i]
-		ensure_dir(str(teamYear))
-
-		yeardir = teamdir + "\\" + str(teamYear)
-		os.chdir(yeardir)
-
-		# for num in range(1,83):
-		# 	ensure_dir("G" + str(num))
-		games = grabTeamData(teamName, teamYear)
+		#Gets the links for all the games played in the regular season for the team.
+		games = grabTeamData(team, year)
 		with open('games_link.txt', 'a') as f:
 			f.write('\n'.join(games))
 
-		#return to main dir
+		# #return to main dir
 		os.chdir(dir_path)
 
+def team_dirs(dir):
+	#gets the list of folders we must traverse into and extract data from
+	subfolders = [f.path for f in os.scandir(dir) if f.is_dir() ]    
+	#visiting deeply into the folders
+	return subfolders
+
+def extract_data(gamesFile):
+	#opens the games_link.txt file generated and pulls the csvs from the website links
+	with open(gamesFile) as f:
+		links = f.readlines()
+		for link in links:
+			print("Request the page: " , link)
+
+			#Saves the csv files in the current working directory
+
+
+
 def main():
-	filename = 'NBATeams.xlsx'
-	populateFolders(filename)
+	# filename = 'NBATeams.xlsx'
+	# populateFolders(filename)
 
+	foldersToVisit = team_dirs(dir_path)
+	for team in foldersToVisit:
+		print(team)
+		extract_data(team + '\games_link.txt')
 
+	print("done")
 
 main()
