@@ -1,6 +1,14 @@
 import pandas as pd
-import requests, pickle, os
+import requests, pickle, os, selenium, json
+from selenium import webdriver
+from tqdm import tqdm
 from bs4 import BeautifulSoup
+from utils import visit_url
+from selenium.webdriver.chrome.options import Options
+
+path_to_extension = 'C:/webdrivers/1.18.10_0'
+chrome_options = Options()
+chrome_options.add_argument('load-extension=' + path_to_extension)
 
 #direct path to user directory
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -67,12 +75,15 @@ def team_dirs(dir):
 	#visiting deeply into the folders
 	return subfolders
 
-def extract_data(gamesFile):
+def extract_data(gamesFile, driver):
 	#opens the games_link.txt file generated and pulls the csvs from the website links
 	with open(gamesFile) as f:
 		links = f.readlines()
-		for link in links:
-			print("Request the page: " , link)
+		for n, link in enumerate(links):
+			data = visit_url(driver, link)
+			jsonfile = 'G' + str(n) + '.json'
+			with open(jsonfile, 'w') as fp:
+				json.dump(data, fp, indent = 4)
 
 			#Saves the csv files in the current working directory
 
@@ -81,11 +92,14 @@ def extract_data(gamesFile):
 def main():
 	# filename = 'NBATeams.xlsx'
 	# populateFolders(filename)
-
+	driver = webdriver.Chrome(chrome_options=chrome_options)
+	driver.create_options()
+	# driver = webdriver.Chrome('C:\webdrivers\chromedriver.exe')
 	foldersToVisit = team_dirs(dir_path)
-	for team in foldersToVisit:
-		print(team)
-		extract_data(team + '\games_link.txt')
+	for i in tqdm(range(len(foldersToVisit))):
+		team = foldersToVisit[i]
+		os.chdir(team)
+		extract_data(team + '\games_link.txt', driver)
 
 	print("done")
 
