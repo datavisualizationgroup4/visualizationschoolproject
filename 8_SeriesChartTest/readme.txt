@@ -1,3 +1,5 @@
+Example: https://gyazo.com/845a857ad3ba4298fc62af28065140e7
+
 run the follow command on the current working directory
 
 1) python -m http.server
