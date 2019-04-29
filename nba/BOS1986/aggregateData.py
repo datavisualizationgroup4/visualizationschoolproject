@@ -160,6 +160,9 @@ def evaluateElo():
 			elo.append(int(newElo))
 			print(int(newElo), ' --- new elo')
 			print(' ------- ')
-	print(len(elo))
+	
+	with open('eloResults.txt', 'w') as outfile:
+		outfile.write(str(elo))
+
 
 evaluateElo()
