@@ -1,11 +1,11 @@
 
 var focusChart = dc.seriesChart("#test");
 var overviewChart = dc.seriesChart("#test-overview");
-var teams = ['Boston 1986', 'Boston 2008', 'Chicago 1991', 'Chicago 1996', 'Chicago 1997', 
-'Cleveland 2016', 'Dallas 2011', 'Golden State 2015', 'Golden State 2017', 'Los Angeles 1987', 
+var teams = ['Boston 2008', 'Chicago 1996', 'Chicago 1997', 
+'Cleveland 2016', 'Golden State 2015', 'Golden State 2017',  
 'Los Angeles 2002', 'Los Angeles 2009', 'Miami 2013', 'San Antonio 2014'];
 var cvsNdx, runDimension, runGroup, overviewRunDimension, overviewRunGroup;
-d3.csv("finalData.csv").then(function(experiments) {
+d3.csv("dataElo.csv").then(function(experiments) {
 
   ndx = crossfilter(experiments);
 
@@ -15,15 +15,16 @@ d3.csv("finalData.csv").then(function(experiments) {
   // var gamesDomain = Math.floor(runDimension.top(Infinity).length / teams.length);
 
   overviewRunDimension = ndx.dimension(function(d) {return [+d.TEAM, +d.GAME]; });
-  runGroup = runDimension.group().reduceSum(function(d) { return +d.FG; });
-  overviewRunGroup = overviewRunDimension.group().reduceSum(function(d) { return +d.FG; });
+  runGroup = runDimension.group().reduceSum(function(d) { return +d.ELO; });
+  overviewRunGroup = overviewRunDimension.group().reduceSum(function(d) { return +d.ELO; });
   focusChart
     .width(768)
     .height(480)
     .chart(function(c) { return dc.lineChart(c).curve(d3.curveCardinal).evadeDomainFilter(true); })
     .x(d3.scaleLinear().domain([0,82]))
+    .y(d3.scaleLinear().domain([1200,1800]))
     .brushOn(false)
-    .yAxisLabel("Field Goals")
+    .yAxisLabel("ELO")
     .yAxisPadding("5%")
     .xAxisLabel("Games Played")
     .elasticY(true)
