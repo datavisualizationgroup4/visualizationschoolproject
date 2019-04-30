@@ -11,6 +11,16 @@
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
 </style>
 <body>
 
@@ -33,6 +43,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 	<a href="team12SM.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Team 12</a>
 	<a href="team13SM.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Team 13</a>
 	<a href="team14SM.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Team 14</a>
+	<a href="smALLUpdate.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">All Teams</a>
+
 
   </div>
 
@@ -49,7 +61,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 <header class="w3-container w3-red w3-center" style="padding:128px 16px">
   <h1 class="w3-margin w3-jumbo">INTERACTIVE SCATTER PLOTS</h1>
   <p class="w3-xlarge">Use the Navbar above to pick a team, or the button bellow to view all the teams</p>
-  <a href="menuScatterAll.html"><button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button></a>
+  <a href="smALLUpdate.html"><button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button></a>
 </header>
 
 <!-- First Grid -->
@@ -57,9 +69,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Overview</h1>
-      <h5 class="w3-padding-32">Team Number to Team Name Dictionary </h5>
+      <h5 class="w3-padding-32">
+		Each team has a unique generated id ranging from 1 to 14. This is done because a "team" is uniquely identified by their name and the year. 
+		As such Lakers 1987 =/= Lakers 2002. Bellow is a dictionary explaining common NBA Stasitcs. Mainly there is a catagorey, its attemps, and the percent score.
+	  </h5>
 
       <p class="w3-text-grey">
+	  <div class="row">
+		
+		<div class="column">
+		<span>Team Number to Team Name</span>
 		<ul>
 			<li>Team 1 : Boston Celctics 1986</li>
 			<li>Team 2 : Boston Celtics 2008</li>
@@ -77,6 +96,37 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 			<li>Team 14 : San Antonio Spurs 2014</li>
 			
 		</ul>
+		</div>
+		
+		 <div class="column">
+		 <span>NBA Stats Definitions</span>
+		 <ul>
+			<li>MP : Minutes Played</li>
+			<li>FG : Field Goals (Number of times successfully scored) </li>
+			<li>FGA: Field Goal Attempts (Number of times basketball was thrown to hoop in effort to score)</li>
+			<li>FG%: Field Goals / Field Goal Attempts (Percent of Sucessful FG)</li>
+			<li>3P: The amount of three point shots successfully made and scored</li>
+			<li>3PA: Three Point Attempt (Number of times a basketball was thrown to the hoop at or before the 3 pointer line in effort to score)</li>
+			<li>3P%: Three Points / Three Points Attempt (Percent of Successfull 3 Point Shots</li>
+			<li>FT: Number of free throws made that successfully scored</li>
+			<li>FTA: Number of free throws attempted</li>
+			<li>FT%: FT / FTA (Successfull Free Throws)</li>
+			<li>ORB: Offensive Rebounds (Number of times your team has retrieved the ball from under the enemy basket)</li>
+			<li>DRB: Defensive Rebounds (Number of times your team has retrieved the ball from hunder your own basket)</li>
+			<li>TRB: Offensive Rebounds + Defensive Rebounds</li>
+			<li>AST: Number of assists</li>
+			<li>STL: Number of steals (Taking the ball away from enemy possession)</li>
+			<li>BLK: Number of blocks (Stopping the enemy team from making a successful score)</li>
+			<li>TOV: Turnovers (The number of times you had the ball stolen from your possession)</li>
+			<li>**PF**: Personal Fouls (The number of infractions your team receives throughout the game)</li>
+			<li>**PTS**: Total number of points</li>
+
+			
+		</ul>
+		
+		 </div>
+		  
+	</div> 
 	  </p>
     </div>
 
@@ -87,7 +137,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 </div>
 
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-    <h1 class="w3-margin w3-xlarge">The City College of New York: CSC59 - DATA VISUALIZATION</h1>
+    <h1 class="w3-margin w3-xlarge">The City College of New York: CSC59969 - DATA VISUALIZATION</h1>
 </div>
 
 <!-- Footer -->
