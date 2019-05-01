@@ -14,13 +14,29 @@
 </head>
 <body>
 <div class="container">
+
   <div class="row">
     <div class="col-md-12">
 <object type="text/html" data="team1SM.html" class="comparisons"></object>
+<button onclick="createComparisons()">Create Comparisons</button>
 </div>
-<div class="col-md-12">
+<div class="col-md-12" id="Comparison">
 <object type="text/html" data="team2SM.html" class="comparisons"></object>
 </div>
   </div>
 </div>
+<script>
+     var divTag = document.getElementById("Comparison");
+     divTag.style.display = "none";
+    function createComparisons()
+    {
+ 
+  if (divTag.style.display === "none") {
+    divTag.style.display = "block";
+  } else {
+    divTag.style.display = "none";
+  }
+    }
+    </script>
+
 </body>
