@@ -1,0 +1,42 @@
+<head>
+  <meta charset="utf-8">
+  <script src="https://unpkg.com/d3@4.10.0/build/d3.js"></script>
+  <script src="https://unpkg.com/d3-component@3.0"></script>
+  <script src="https://unpkg.com/redux@3/dist/redux.min.js"></script>
+  <script src="https://unpkg.com/d3-tip@0.7.1"></script>
+  <link rel="stylesheet" href="https://unpkg.com/bootstrap@4.0.0-alpha.6/dist/css/bootstrap.min.css">
+  <style>
+.comparisons{
+    height: 100%;
+    width: 100%;
+}
+      </style>
+</head>
+<body>
+<div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+<object type="text/html" data="team1SM.html" class="comparisons"></object>
+<button onclick="createComparisons()">Create Comparisons</button>
+</div>
+<div class="col-md-12" id="Comparison">
+<object type="text/html" data="team2SM.html" class="comparisons"></object>
+</div>
+  </div>
+</div>
+<script>
+     var divTag = document.getElementById("Comparison");
+     divTag.style.display = "none";
+    function createComparisons()
+    {
+ 
+  if (divTag.style.display === "none") {
+    divTag.style.display = "block";
+  } else {
+    divTag.style.display = "none";
+  }
+    }
+    </script>
+
+</body>
