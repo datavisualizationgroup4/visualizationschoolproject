@@ -5,7 +5,7 @@ var teams = ['Boston 2008', 'Chicago 1996', 'Chicago 1997',
 'Cleveland 2016', 'Golden State 2015', 'Golden State 2017',  
 'Los Angeles 2002', 'Los Angeles 2009', 'Miami 2013', 'San Antonio 2014'];
 var cvsNdx, runDimension, runGroup, overviewRunDimension, overviewRunGroup;
-d3.csv("dataElo.csv").then(function(experiments) {
+d3.csv("finalData.csv").then(function(experiments) {
 
   ndx = crossfilter(experiments);
 
@@ -30,14 +30,14 @@ d3.csv("dataElo.csv").then(function(experiments) {
     .elasticY(true)
     .dimension(runDimension)
     .group(runGroup)
+    .ordinalColors(['#e6194B','#f58231','#ffe119','#bfef45','#3cb44b','#42d4f4','#4363d8', '#911eb4', '#f032e6', '#a9a9a9'])
     .mouseZoomable(true)
     .rangeChart(overviewChart)
     .seriesAccessor(function(d) {return teams[d.key[0] - 1];})
     .keyAccessor(function(d) {return +d.key[1];})
     .valueAccessor(function(d) {return +d.value;})
-    // .legend(dc.legend().x(350).y(350).itemHeight(13).gap(5).horizontal(1).legendWidth(140).itemWidth(70));
     .legend(dc.htmlLegend().container('#legend').horizontal(false).highlightSelected(true));
-  focusChart.yAxis().tickFormat(function(d) {return d3.format(',d')(d);});
+  // focusChart.yAxis().tickFormat(function(d) {return d3.format(',d')(d);});
   focusChart.margins().left += 40;
   
   overviewChart
@@ -50,6 +50,7 @@ d3.csv("dataElo.csv").then(function(experiments) {
     .clipPadding(10)
     .dimension(runDimension)
     .group(runGroup)
+    .ordinalColors(['#e6194B','#f58231','#ffe119','#bfef45','#3cb44b','#42d4f4','#4363d8', '#911eb4', '#f032e6', '#a9a9a9'])
     .seriesAccessor(function(d) {return teams[d.key[0] - 1];})
     .keyAccessor(function(d) {return +d.key[1];})
     .valueAccessor(function(d) {return +d.value;});
@@ -69,16 +70,16 @@ d3.csv("dataElo.csv").then(function(experiments) {
   });
 
   pieChart
-    .width(768)
-    .height(480)
+    .width(540)
+    .height(360)
     .slicesCap(teams.length)
-    .innerRadius(100)
+    .innerRadius(25)
     .externalLabels(50)
     .externalRadiusPadding(50)
     .drawPaths(true)
     .dimension(statsDimension)
-    .group(sumGroup)
-    .legend(dc.legend());
+    .ordinalColors(['#e6194B','#f58231','#ffe119','#bfef45','#3cb44b','#42d4f4','#4363d8', '#911eb4', '#f032e6', '#a9a9a9'])
+    .group(sumGroup);
   pieChart.on('pretransition', function(chart) {
       pieChart.selectAll('.pie-slice')
           .on('click', function(d) {
