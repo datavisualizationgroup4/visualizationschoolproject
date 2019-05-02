@@ -1,9 +1,50 @@
+let input = document.getElementById("searchBar");
+var inputText = "";
+input.addEventListener("keyup", searchFunction, false);
+
+function searchFunction(e){
+	inputText = input.value;
+	console.log(inputText);
+
+	var filteredArray = []
+	for(var i = 0; i < adjectives.length; i++){
+		if(adjectives[i].includes(inputText)){
+			filteredArray.push(adjectives[i]);
+		}
+	}
+
+	filteredWords = filteredArray
+		.map(function(d,i) {
+			//console.log(d);
+        	return {text: d, size: -i};
+        });
+		console.log(filteredArray);
+		d3.selectAll("svg").remove();
+
+		ctx.clearRect(0,0, 500, 500);
+
+
+	d3.layout.cloud()
+	.size([cWidth, cHeight])
+	.words(filteredWords)
+	//.padding(2) // controls
+	.rotate(function() { return ~~(Math.random() * 2) * 90; })
+	.font(fontName)
+	.fontSize(function(d) { return fontScale(d.size) })
+	.on("end", draw)
+	.start();
+
+	d3.select("svg > *").on("mouseover", function(){return tooltip.style("visibility", "visible");})
+.on("mousemove", function(){return tooltip.style("top",
+    (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px");})
+.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+}
 let adjectives  = ['elusive', 'holistic', 'defensive', 'offensive', 'team-player', 'aggressive', 'flashy', 'passive-aggressive', 'dunk-kings', 'three-point-kings', 'Percentage-kings',  'dynamic',
 
   'dysfunctional',
 
   'eager'];
-let teams = ['TEAM 1', 'TEAM 2', 'TEAM 3'];
+  let teams = ['lebronteam', 'rune-team'];
 
 
   
@@ -12,6 +53,12 @@ var words = adjectives
 			//console.log(d);
         	return {text: d, size: -i};
         });
+var filteredWords = adjectives
+		.map(function(d,i) {
+			//console.log(d);
+        	return {text: d, size: -i};
+        });
+
 
 var fontName = "Impact",
 	cWidth = 800,
@@ -39,7 +86,7 @@ var fRatio = Math.min(cWidth, cHeight) / ctx.measureText(words[0].text).width,
 			d3.max(words, function(d) { return d.size; })
 		])
 		//.range([20,120]),
-		.range([20,100*fRatio/2]), // tbc
+		.range([50,50]), // tbc
 	fill = d3.scale.category20();
 
 d3.layout.cloud()
@@ -95,7 +142,7 @@ function draw(words, bounds) {
 		.style("fill", function(d, i) { return fill(i); })
 		.attr("text-anchor", "middle")
 		.transition()
-		.duration(500)
+		.duration(5)
 		.attr("transform", function(d) {
 			return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
 		})
@@ -115,19 +162,21 @@ function draw(words, bounds) {
 	);
 	
 };
-
 var tooltip = d3.select("body")
 	.append("div")
 	.style("position", "absolute")
 	.style("z-index", "10")
 	.style("visibility", "hidden")
-	.text(`String text ${teams}`);
-
-d3.select("svg > *").on("mouseover", function(){return tooltip.style("visibility", "visible");})
-.on("mousemove", function(){return tooltip.style("top",
-    (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px");})
+	.data(words)
+	.text("Hi"/*function(d){return d.text}*/);
+/*`string text ${teams[1]} string text`*/
+d3.select("svg > g")
+.on("mouseover", function(){return tooltip.style("visibility", "visible");})
+.on("mousemove", function(d){console.log(d); tooltip.html(d)
+	.style("top", (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
+console.log(svg);
 
 function sortByFrequency(arr) {
 	var f = {};
@@ -135,211 +184,3 @@ function sortByFrequency(arr) {
 	var u = arr.filter(function(i) { return ++f[i] == 1; });
 	return u.sort(function(a, b) { return f[b] - f[a]; });
 }
-let findMaxPosition = function(arrayInput)
-
-{
-
-    let maxVal = Math.max(...arrayInput);
-
-    let counter = 0;
-
-    
-    while(arrayInput[counter] != maxVal)
-
-    {
-
-        counter++;
-
-        console.log("hi");
-
-    }
-
-    console.log("hi");
-
-    return counter;
-
-}
-
-//let convertObjToArray
-
-d3.csv("finalData.csv").then(function(data) {
-
- 
-
-let totalSumFG = new Array(14);
-
-let totalSumFGA = new Array(14);
-
-let totalSumFGPer = new Array(14);
-
-let totalSum3P = new Array(14);
-
-let totalSum3PA = new Array(14);
-
-let totalSum3Per = new Array(14);
-
-let totalSumFT = new Array(14);
-
-let totalSumFTA = new Array(14);
-
-let totalSumFTPer = new Array(14);
-
-let totalSumORB = new Array(14);
-
-let totalSumDRB = new Array(14);
-
-let totalSumTRB = new Array(14);
-
-let totalSumAST = new Array(14);
-
-let totalSumSTL = new Array(14);
-
-let totalSumBLK = new Array(14);
-
-let totalSumTOV = new Array(14);
-
-let totalSumPF = new Array(14);
-
-    //data.forEach(function(d) {
-
-// console.log(data); // [{"Hello": "world"}, …]
-
-//console.log(data[0]);
-
-data.forEach(function(d) {
-
-  
-
-    d["FG"] = parseFloat(d["FG"]);
-
-    d["FGA"] = parseFloat(d["FGA"]);
-
-    d["FG%"] = parseFloat(d["FG%"]);
-	d["3P"] = parseFloat(d["3P"]);
-	d["3PA"] = parseFloat(d["3PA"]);
-	d["3P%"] = parseFloat(d["3P%"]);
-	d["FT"] = parseFloat(d["FT"]);
-	d["FT%"] = parseFloat(d["FT%"]);
-	d["ORB"] = parseFloat(d["ORB"]);
-	d["DRB"] = parseFloat(d["DRB"]);
-	d["TRB"] = parseFloat(d["TRB"]);
-	d["AST"] = parseFloat(d["AST"]);
-	d["STL"] = parseFloat(d["STL"]);
-	d["BLK"] = parseFloat(d["TOV"]);
-	d["PF"] = parseFloat(d["PF"]);
-
-    /*
-
-    totalSumFG[0] = [d3.sum(data.map(function(d){ if(d["TEAM"] == 1) return parseFloat(d["FG"]
-
-     );}))];
-
-     totalSumFG[1] = [d3.sum(data.map(function(d){ if(d["TEAM"] == 2) return parseFloat(d["FG"]
-
-     );}))];*/
-
-//if (d["TEAM"] == 1){
-
-    //console.log("hisok");
-
-   for (let i = 0; i < 14; i++){
-
- 
-
-   let teamNum = i + 1;
-
-     totalSumFG[i] = d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-     );}));
-
-     totalSumFGA[i] = d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FGA"]
-
-    );}));
-
-    totalSumFGPer[i] = d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG%"]
-
-);}));
-	totalSum3P[i] = d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["3P"]
-
-);}));
-totalSumFGPer[i] = d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG%"]
-
-);}));
-
-/*
-
-totalSum3P[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["3P"]
-
-);}))];
-
-totalSum3PA[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-);}))];
-
-totalSum3Per[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-);}))];
-
-let totalSumFT[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-);}))];
-
-totalSumFG[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-);}))];
-
-totalSumFG[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-);}))];
-
-totalSumFG[i] = [d3.sum(data.map(function(d){ if(d["TEAM"] == teamNum) return parseFloat(d["FG"]
-
-);}))];*/
-
-   }
-
-      /* d3.sum(data.map(function(d){ return d.})),
-
-       d3.sum(data.map(function(d){ return d.march}))];
-
- 
-
-    console.log(totalSum);//[4, 9, 12]
-
-*/
-
- 
-
-   
-
-//} 
-
-//
-
- 
-
-    // d["FG"] = parseFloat(d["FG"]);
-
-
-
-
-  });
-
-  console.log("hi");
-
-  console.log(totalSumFG[13]);
-
-  console.log((totalSumFG));
-
-  console.log(array);
-
- console.log(findMaxPosition(totalSumFG));
- //console.log(Math.max(...totalSumFG));
-
-//  console.log(data[0]);
-
-// console.log(totalSum);
-
-// document.getElementById("textData2").innerHTML = data[0];
-
-});
