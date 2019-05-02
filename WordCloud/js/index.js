@@ -1,12 +1,11 @@
 let input = document.getElementById("searchBar");
 var inputText = "";
 input.addEventListener("keyup", searchFunction, false);
-
 function searchFunction(e){
 	inputText = input.value;
 	console.log(inputText);
 
-	var filteredArray = []
+	filteredArray = [];
 	for(var i = 0; i < adjectives.length; i++){
 		if(adjectives[i].includes(inputText)){
 			filteredArray.push(adjectives[i]);
@@ -38,16 +37,25 @@ function searchFunction(e){
 .on("mousemove", function(){return tooltip.style("top",
     (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+
+for(let i = 0; i < adjectives.length; i++){
+	console.log(	hi = d3.select("g")[0][0].childNodes[i]);
+	
+	d3.select(hi)
+	.on("mouseover", function(){return tooltip.style("visibility", "visible");})
+	.on("mousemove", function(){console.log(hi); tooltip.html(teams[i])
+		.style("top", (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px");})
+	.on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+	
+	}
+
 }
-let adjectives  = ['elusive', 'holistic', 'defensive', 'offensive', 'team-player', 'aggressive', 'flashy', 'passive-aggressive', 'dunk-kings', 'three-point-kings', 'Percentage-kings',  'dynamic',
-
-  'dysfunctional',
-
-  'eager'];
-  let teams = ['lebronteam', 'rune-team'];
+let adjectives  = ['elusive', 'holistic', 'defensive', 'offensive', 'team-player', 'aggressive', 'flashy', 'dunk-kings', 'three-point-kings', 'Percentage-kings', 'dynamic', 'eager',
+  'dysfunctional'];
+  let teams = ['TEAM 1', 'TEAM 2', 'TEAM 3', 'TEAM 4', 'TEAM 5', 'TEAM 6', 'TEAM 7', 'TEAM 8', 'TEAM 9', 'TEAM 10', 'TEAM 11', 'TEAM 12', 'TEAM 13', 'TEAM 14'];
 
 
-  
+  var filteredArray = [adjectives.length];
 var words = adjectives
 		.map(function(d,i) {
 			//console.log(d);
@@ -167,15 +175,20 @@ var tooltip = d3.select("body")
 	.style("position", "absolute")
 	.style("z-index", "10")
 	.style("visibility", "hidden")
+	.style("font-size", "30px")
 	.data(words)
 	.text("Hi"/*function(d){return d.text}*/);
 /*`string text ${teams[1]} string text`*/
-d3.select("svg > g")
+for(let i = 0; i < adjectives.length; i++){
+console.log(	hi = d3.select("g")[0][0].childNodes[i]);
+
+d3.select(hi)
 .on("mouseover", function(){return tooltip.style("visibility", "visible");})
-.on("mousemove", function(d){console.log(d); tooltip.html(d)
+.on("mousemove", function(){console.log(hi); tooltip.html(teams[i])
 	.style("top", (d3.event.pageY-10)+"px").style("left",(d3.event.pageX+10)+"px");})
 .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 
+}
 console.log(svg);
 
 function sortByFrequency(arr) {
